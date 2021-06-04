@@ -1,5 +1,8 @@
 # Small-Cell-Outage-Management-System
-This project is developed for manage outages of small cells in island wide telecommunication network.Network analysis section is developed more effectively in the future.I have adding some features for this project.Then It will become more powerful outage management system and no need to manipulate third party systems.I will expect your support for develop this project.
+This project is developed for manage outages of small cells in island wide telecommunication network.Network analysis section is developed more effectively in the future.I have added some features for this project.This System can build more powerful outage management system and no need to manipulate third party systems.I will expect your support for develop this project.This is opensource MIT Licence project.
+
+Linkedin:https://www.linkedin.com/in/bihan-samarasinghe-481971103
+
 
 **User Login Page**
 ![login](https://user-images.githubusercontent.com/85171341/120817927-c1e53d80-c56f-11eb-955f-956017b4dc11.PNG)
