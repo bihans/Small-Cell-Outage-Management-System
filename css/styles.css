@@ -1,0 +1,42 @@
+
+body{
+
+   justify-content: center;
+   align-content: center;
+   align-items: center;
+   padding: 5% 5%;
+   background-color #9921e8;
+   background-image: url(../images/ai-back.png);
+
+
+}
+
+h2{
+	font-family: Oswald, sans-serif;
+	color: #555;
+	font-size: 1cm;
+	margin-left: 30%;
+}
+
+table{
+	font-family: Poppins,sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td , th {
+	text-align: left;
+	padding: 8px;
+}
+
+.main{
+  background-color: #f8ceec;
+background-image: linear-gradient(315deg, #f8ceec 0%, #a88beb 74%);
+font-family: Oswald, sans-serif;
+
+	height:50%;
+	width:100%;
+	padding-left: 75px;
+	border-radius: 30px 30px 30px 30px;
+	box-shadow: 16px 22px 51px -24px rgba(51,50,52,0.48);
+}

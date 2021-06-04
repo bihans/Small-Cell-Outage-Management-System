@@ -1,0 +1,88 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: "Montserrat";
+  background-color: #6b0f1a;
+  background-image: url(../images/ai-back.png);
+  background-size: cover;
+  background-repeat:no-repeat;
+
+}
+
+/* Style the body */
+/* Header/Logo Title */
+.header {
+  padding: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Poppins,sans-serif;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+.container {
+  max-width: 400px;
+  margin-top: 70px;
+  width: 90%;
+  padding: 20px;
+  box-shadow: 0px 0px 20px #00000020;
+  border-radius: 8px;
+  background-color: white;
+  font-family: Poppins,sans-serif;
+  font-size: 20px;
+}
+.step {
+  display: none;
+}
+.step.active {
+  display: block;
+}
+.form-group {
+  width: 100%;
+  margin-top: 20px;
+}
+.form-group input {
+  width: 100%;
+  border: 1.5px solid rgba(128, 128, 128, 0.418);
+  padding: 5px;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+.form-group select {
+  width: 100%;
+  border: 1.5px solid rgba(128, 128, 128, 0.418);
+  padding: 5px;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+button.next-btn,
+button.previous-btn,
+button.submit-btn {
+  float: right;
+  margin-top: 20px;
+  padding: 10px 30px;
+  border: none;
+  outline: none;
+  background-color: rgb(180, 220, 255);
+  font-family: "Montserrat";
+  font-size: 18px;
+  cursor: pointer;
+  /* text-align: right; */
+}
+
+
+button.previous-btn {
+  float: left;
+}
+button.submit-btn {
+  background-color: aquamarine;
+}
